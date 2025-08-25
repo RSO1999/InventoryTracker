@@ -24,9 +24,10 @@ The app allows users to create, manage, and delete items with a clean and intuit
 
 ## Demo Screenshots
 
-<img width="416" height="837" alt="Screenshot 2025-08-25 at 6 37 53 PM" src="https://github.com/user-attachments/assets/7b34bb1c-a59e-4743-9dd2-3c33e1096da7" />
-<img width="416" height="837" alt="Screenshot 2025-08-25 at 6 37 10 PM" src="https://github.com/user-attachments/assets/58827465-0187-45ee-a6ba-48810864f674" />
-<img width="416" height="837" alt="Screenshot 2025-08-25 at 6 36 47 PM" src="https://github.com/user-attachments/assets/31d240f5-3f9c-41f0-a477-6a9b7ca864c5" />
-<img width="416" height="837" alt="Screenshot 2025-08-25 at 6 36 23 PM" src="https://github.com/user-attachments/assets/e3efd775-9d26-45c0-9bca-aaab8e64205f" />
-<img width="502" height="846" alt="Screenshot 2025-08-25 at 6 35 46 PM" src="https://github.com/user-attachments/assets/321a578a-3237-486c-9a05-3feacd2d2843" />
-<img width="416" height="837" alt="Screenshot 2025-08-25 at 6 34 40 PM" src="https://github.com/user-attachments/assets/351da0b4-2210-437c-af7e-53ee9203ae96" />
+<img width="416" height="837" alt="Screenshot 2025-08-25 at 6 37 53 PM" src="https://github.com/user-attachments/assets/cdac81d5-1cea-4275-9883-afcfc6de17a2" />
+<img width="416" height="837" alt="Screenshot 2025-08-25 at 6 37 10 PM" src="https://github.com/user-attachments/assets/a457887b-6234-4710-8e8b-d2d1bc4d4b24" />
+<img width="416" height="837" alt="Screenshot 2025-08-25 at 6 36 47 PM" src="https://github.com/user-attachments/assets/e068da54-43bc-4d37-a2e5-b76f7b48eff5" />
+<img width="416" height="837" alt="Screenshot 2025-08-25 at 6 36 23 PM" src="https://github.com/user-attachments/assets/a76cd5c9-7541-4fbb-b12d-f877e05079e8" />
+<img width="502" height="846" alt="Screenshot 2025-08-25 at 6 35 46 PM" src="https://github.com/user-attachments/assets/4d5c5919-d4d7-4e1a-b604-ff6192350d5a" />
+<img width="416" height="837" alt="Screenshot 2025-08-25 at 6 34 40 PM" src="https://github.com/user-attachments/assets/2e3657f7-2ec4-4fc3-a44e-fc9c52cdc92c" />
+
